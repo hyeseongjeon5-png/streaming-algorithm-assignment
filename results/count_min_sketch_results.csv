@@ -1,0 +1,4 @@
+﻿name,width,depth,record_count,unique_movie_count,mean_absolute_error,mean_relative_error,max_error,memory_kb,insert_time_sec,throughput_records_per_sec
+CMS-1,1000,3,1000209,3706,351.2547,24.60274,3334,11.72,3.8179,261981.16
+CMS-2,5000,5,1000209,3706,1.962,0.125147,488,97.66,6.6393,150650.71
+CMS-3,10000,7,1000209,3706,0.0008,2e-06,2,273.44,10.6091,94277.96

@@ -1,0 +1,4 @@
+﻿name,bit_size,hash_count,record_count,false_negative_count,false_positive_count,false_positive_rate,memory_kb,insert_time_sec,throughput_records_per_sec
+BF-1,2000000,3,1000209,0,23424,0.46848,244.14,1.944,514513.2
+BF-2,5000000,5,1000209,0,4925,0.0985,610.35,2.3879,418861.54
+BF-3,10000000,7,1000209,0,386,0.00772,1220.7,3.3162,301615.5
