@@ -1,0 +1,13 @@
+# 데이터셋은 노트북에서 자동 다운로드하므로 GitHub에 업로드하지 않음
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoint
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
